@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Danny and I am a current data analyst with 6+ years experience in the energy, FinTech, general software, and IoT software industries.
 <!--
 **dannynicholson47/dannynicholson47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
